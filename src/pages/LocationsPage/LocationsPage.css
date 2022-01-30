@@ -1,0 +1,5 @@
+img {
+    max-width:300px;
+  border-radius: 10%;
+  border: 3px solid rgba(221, 190, 190, 0.623);
+}
